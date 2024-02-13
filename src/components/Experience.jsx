@@ -41,7 +41,7 @@ const Experience = () => {
     {
       id: 5,
       src: node,
-      title: "NodeJs",
+      title: "React Native",
       style: "shadow-green-400",
     },
     {
@@ -53,7 +53,7 @@ const Experience = () => {
     {
       id: 7,
       src: graphql,
-      title: "GraphQL",
+      title: "React Charts",
       style: "shadow-pink-400",
     },
     {
@@ -71,7 +71,7 @@ const Experience = () => {
     {
       id: 10,
       src: express,
-      title: "Express",
+      title: "Material UI",
       style: "shadow-white",
     },
     {
