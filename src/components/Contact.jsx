@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 
 //function for form reset
 function handleSubmit(e){
@@ -8,6 +8,8 @@ function handleSubmit(e){
 }
 
 const Contact = () => {
+  const [message, setMessage] = useState('')
+  const [subject, setSubject] = useState('')
   return (
     <div
       name="contact"
@@ -21,7 +23,7 @@ const Contact = () => {
           <p className="py-6">Submit the form below to get in touch with me</p>
         </div>
         
-        <div className=" flex justify-center items-center">
+        <div className=" flex">
           <form
             onSubmit={handleSubmit}
             name="contact"
@@ -34,26 +36,28 @@ const Contact = () => {
               name="name"
               placeholder="Enter your name"
               required
-              className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+              className="p-2 bg-[#1F2937] rounded-md text-white focus:border-[1px] focus:outline-gray-800"
             />
             <input
-              type="email"
-              name="email"
-              placeholder="Enter your email"
+              type="text"
+              name="subject"
+              placeholder="Enter your Subject"
+              onChange={(e) => setSubject(e.target.value)}
               required
-              className="my-4 p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+              className="my-4 p-2 bg-[#1F2937] rounded-md text-white focus:border-[1px] focus:outline-gray-800"
             />
             <textarea
               name="message"
               placeholder="Enter your message"
+              onChange={(e) => setMessage(e.target.value)}
               rows="10"
               required
-              className="p-2 bg-transparent border-2 rounded-md text-white focus:outline-none"
+              className="p-2 bg-[#1F2937] rounded-md text-white focus:border-[1px] focus:outline-gray-800"
             ></textarea>
 
-            <button type="submit" className="text-white bg-gradient-to-b from-cyan-500 to-blue-500 px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:scale-110 duration-300">
+            <a href={`mailto:${'ahmadhassa2003@gmail.com'}?subject=${encodeURIComponent(subject) || ''}&body=${encodeURIComponent(message) || ''}`} type="submit" className="text-white bg-[#1D4ED8] px-6 py-3 my-8 mx-auto flex items-center rounded-md hover:bg-opacity-70 duration-300">
               Send Message
-            </button>
+            </a>
           </form>
         </div>
       </div>

@@ -8,8 +8,8 @@ import nextjs from "../assets/nextjs.png";
 import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
-import node from "../assets/node.png";
-import express from "../assets/express.png"
+import materialui from "../assets/materialui.png";
+import flowbite from "../assets/flowbite.png"
 import mongodb from "../assets/mongodb.png"
 import redux from "../assets/redux.png"
 const Experience = () => {
@@ -40,7 +40,7 @@ const Experience = () => {
     },
     {
       id: 5,
-      src: node,
+      src: reactImage,
       title: "React Native",
       style: "shadow-green-400",
     },
@@ -52,9 +52,9 @@ const Experience = () => {
     },
     {
       id: 7,
-      src: graphql,
-      title: "React Charts",
-      style: "shadow-pink-400",
+      src: redux,
+      title: "Redux",
+      style: "shadow-purple-500",
     },
     {
       id: 8,
@@ -70,21 +70,15 @@ const Experience = () => {
     },
     {
       id: 10,
-      src: express,
+      src: materialui,
       title: "Material UI",
-      style: "shadow-white",
+      style: "shadow-[#007FFF]",
     },
     {
       id: 11,
-      src: mongodb,
-      title: "MongoDB",
-      style: "shadow-green-500",
-    },
-    {
-      id: 12,
-      src: redux,
-      title: "Redux",
-      style: "shadow-purple-500",
+      src: flowbite,
+      title: "Flow Bite",
+      style: "shadow-[#1B43DE]",
     },
   ];
 
