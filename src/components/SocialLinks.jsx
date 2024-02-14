@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com/in/rahulkarda2002",
+      href: "https://www.linkedin.com/in/ahmad-hassan-ab6589269/",
       style: "rounded-tr-md",
     },
     {
@@ -43,16 +43,16 @@ const SocialLinks = () => {
       href: resume,
       download: true,
     },
-    {
-      id: 5,
-      child: (
-        <>
-          Twitter <FaTwitter size={30} />
-        </>
-      ),
-      href: "https://twitter.com/rahulkarda2002",
-      style: "rounded-br-md",
-    },
+    // {
+    //   id: 5,
+    //   child: (
+    //     <>
+    //       Twitter <FaTwitter size={30} />
+    //     </>
+    //   ),
+    //   href: "https://twitter.com/rahulkarda2002",
+    //   style: "rounded-br-md",
+    // },
   ];
 
   return (
