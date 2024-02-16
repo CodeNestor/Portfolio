@@ -9,7 +9,7 @@ import graphql from "../assets/graphql.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import materialui from "../assets/materialui.png";
-import flowbite from "../assets/flowbite.png"
+// import flowbite from "../assets/flowbite.png"
 import mongodb from "../assets/mongodb.png"
 import redux from "../assets/redux.png"
 const Experience = () => {
@@ -74,12 +74,12 @@ const Experience = () => {
       title: "Material UI",
       style: "shadow-[#007FFF]",
     },
-    {
-      id: 11,
-      src: flowbite,
-      title: "Flow Bite",
-      style: "shadow-[#1B43DE]",
-    },
+    // {
+    //   id: 11,
+    //   src: flowbite,
+    //   title: "Flow Bite",
+    //   style: "shadow-[#1B43DE]",
+    // },
   ];
 
   return (
@@ -88,7 +88,7 @@ const Experience = () => {
       className="bg-gradient-to-b from-gray-800 to-black w-full pt-[5%]"
     >
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center w-full text-white">
-        <div>
+        <div className="pb-8 text-center">
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
             Experience
           </p>

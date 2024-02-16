@@ -2,6 +2,7 @@ import React from "react";
 import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
+import resume from '../assets/resume4.pdf'
 
 const Home = () => {
   return (
@@ -27,7 +28,7 @@ const Home = () => {
             React, Tailwind, Next JS and Material UI.
           </p>
 
-          <div className="portfolio-btn">
+          <div className="portfolio-btn flex gap-8">
             <Link
               to="portfolio"
               smooth
@@ -39,6 +40,17 @@ const Home = () => {
                 <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
               </span>
             </Link>
+
+            <a
+              href={resume}
+              download={'resume'}
+              className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md border-2 border-white cursor-pointer"
+            >
+              Resume
+              <span className="group-hover:rotate-90 duration-300">
+                <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
+              </span>
+            </a>
           </div>
         </div>
         <div className="big-screen">
