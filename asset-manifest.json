@@ -1,20 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.a0d7b285.css",
-    "main.js": "/Portfolio-Website/static/js/main.0eafe081.js",
-    "reactPlayerYouTube.js": "/Portfolio-Website/static/js/reactPlayerYouTube.d8016314.chunk.js",
-    "reactPlayerSoundCloud.js": "/Portfolio-Website/static/js/reactPlayerSoundCloud.4b4c16dc.chunk.js",
-    "reactPlayerVimeo.js": "/Portfolio-Website/static/js/reactPlayerVimeo.58b08853.chunk.js",
-    "reactPlayerFacebook.js": "/Portfolio-Website/static/js/reactPlayerFacebook.4857ca2a.chunk.js",
-    "reactPlayerStreamable.js": "/Portfolio-Website/static/js/reactPlayerStreamable.acf7c204.chunk.js",
-    "reactPlayerWistia.js": "/Portfolio-Website/static/js/reactPlayerWistia.6fb93d59.chunk.js",
-    "reactPlayerTwitch.js": "/Portfolio-Website/static/js/reactPlayerTwitch.8ff7424b.chunk.js",
-    "reactPlayerDailyMotion.js": "/Portfolio-Website/static/js/reactPlayerDailyMotion.ac91bc43.chunk.js",
-    "reactPlayerMixcloud.js": "/Portfolio-Website/static/js/reactPlayerMixcloud.ff8aaaa8.chunk.js",
-    "reactPlayerVidyard.js": "/Portfolio-Website/static/js/reactPlayerVidyard.1283ea57.chunk.js",
-    "reactPlayerKaltura.js": "/Portfolio-Website/static/js/reactPlayerKaltura.b3c71dd1.chunk.js",
-    "reactPlayerFilePlayer.js": "/Portfolio-Website/static/js/reactPlayerFilePlayer.f9967cc1.chunk.js",
-    "reactPlayerPreview.js": "/Portfolio-Website/static/js/reactPlayerPreview.d7c308f2.chunk.js",
+    "main.css": "/Portfolio-Website/static/css/main.297f8db1.css",
+    "main.js": "/Portfolio-Website/static/js/main.dd667100.js",
     "static/js/592.6647c214.chunk.js": "/Portfolio-Website/static/js/592.6647c214.chunk.js",
     "static/media/detail.png": "/Portfolio-Website/static/media/detail.87229e0e689966c4d08d.png",
     "static/media/home.png": "/Portfolio-Website/static/media/home.11f72c41e00fe39902ab.png",
@@ -55,25 +42,12 @@
     "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-Website/index.html",
-    "main.a0d7b285.css.map": "/Portfolio-Website/static/css/main.a0d7b285.css.map",
-    "main.0eafe081.js.map": "/Portfolio-Website/static/js/main.0eafe081.js.map",
-    "reactPlayerYouTube.d8016314.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerYouTube.d8016314.chunk.js.map",
-    "reactPlayerSoundCloud.4b4c16dc.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerSoundCloud.4b4c16dc.chunk.js.map",
-    "reactPlayerVimeo.58b08853.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerVimeo.58b08853.chunk.js.map",
-    "reactPlayerFacebook.4857ca2a.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerFacebook.4857ca2a.chunk.js.map",
-    "reactPlayerStreamable.acf7c204.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerStreamable.acf7c204.chunk.js.map",
-    "reactPlayerWistia.6fb93d59.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerWistia.6fb93d59.chunk.js.map",
-    "reactPlayerTwitch.8ff7424b.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerTwitch.8ff7424b.chunk.js.map",
-    "reactPlayerDailyMotion.ac91bc43.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerDailyMotion.ac91bc43.chunk.js.map",
-    "reactPlayerMixcloud.ff8aaaa8.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerMixcloud.ff8aaaa8.chunk.js.map",
-    "reactPlayerVidyard.1283ea57.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerVidyard.1283ea57.chunk.js.map",
-    "reactPlayerKaltura.b3c71dd1.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerKaltura.b3c71dd1.chunk.js.map",
-    "reactPlayerFilePlayer.f9967cc1.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerFilePlayer.f9967cc1.chunk.js.map",
-    "reactPlayerPreview.d7c308f2.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerPreview.d7c308f2.chunk.js.map",
+    "main.297f8db1.css.map": "/Portfolio-Website/static/css/main.297f8db1.css.map",
+    "main.dd667100.js.map": "/Portfolio-Website/static/js/main.dd667100.js.map",
     "592.6647c214.chunk.js.map": "/Portfolio-Website/static/js/592.6647c214.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a0d7b285.css",
-    "static/js/main.0eafe081.js"
+    "static/css/main.297f8db1.css",
+    "static/js/main.dd667100.js"
   ]
 }
