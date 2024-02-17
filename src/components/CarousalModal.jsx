@@ -32,7 +32,7 @@ console.log(obj)
 
                                 ))}
                             </div>
-                            {obj?.project?.map((value) => {
+                            {/* {obj?.project?.map((value) => {
                                 return (
                                     <div>
                                         {value?.video ?
@@ -45,7 +45,12 @@ console.log(obj)
                                     </div>
 
                                 )
-                            })}
+                            })} */}
+                            <div className='overflow-y-auto h-screen flex items-center justify-center no-scrollbar bg-white' >
+                                <h1 className='ml-16 pt-4 text-3xl '>
+                                This is a video section where I will soon upload videos showcasing my projects.
+                                </h1>
+                            </div>
 
                         </Carousel>
 
