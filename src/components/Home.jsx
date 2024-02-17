@@ -2,7 +2,9 @@ import React from "react";
 import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
-import resume from '../assets/resume4.pdf'
+import { BsFillPersonLinesFill } from "react-icons/bs";
+
+import resume from '../assets/Ahmad Hassan_Resume.pdf'
 
 const Home = () => {
   return (
@@ -47,8 +49,8 @@ const Home = () => {
               className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md border-2 border-white cursor-pointer"
             >
               Resume
-              <span className="group-hover:rotate-90 duration-300">
-                <MdOutlineKeyboardArrowRight size={25} className="ml-1" />
+              <span className="">
+                <BsFillPersonLinesFill size={25} className="ml-3" />
               </span>
             </a>
           </div>

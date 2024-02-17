@@ -14,14 +14,21 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        I am a web developer, working in both, backend and frontend programming. Excited for improving my skills and learning new technologies. I'm open to learn and work with any web technology and currently doing freelance gigs.
+        Experienced Frontend Developer with a 1.5 year of hands-on
+        expertise in HTML,CSS, and JavaScript, specializing in responsive
+        design for seamless user interactions. Adept at leveraging React.js,
+        Next.js, and Tailwind CSS to create visually striking and userfriendly
+        web applications. Proven track record of translating design concepts
+        into pixel-perfect, responsive interfaces, and enhancing user
+        engagement. Ready to bring my skills and passion for innovative
+        frontend development to your team
+        {/* I am a web developer, working as a frontend developer. Excited for improving my skills and learning new technologies. I'm open to learn and work with any web technology. */}
         </p>
 
         <br />
 
         <p className="text-xl">
         I like to code matters from scratch and love the idea of bringing thoughts to life. Connect with me to get your project done. <br /> <br />
-        I value minimalistic designs, thoughtful branding of the content, and customer relatable experience. Let’s discover together how we can make your project convert better!<br /> <br />
         I enjoy creating or redesigning a distinct identity for a product or service, get more traffic from search engine and social platforms.
         </p>
       </div>
