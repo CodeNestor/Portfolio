@@ -16,9 +16,8 @@ console.log(obj)
                 <div style={{ position: 'absolute', top: '50%', left: '50%', transform: 'translate(-50%, -50%)', bgcolor: 'background.paper', boxShadow: 24, p: 4, width: '80vw', maxWidth: 900 }} >
 
                     <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                        <Carousel stopAutoPlayOnHover={true} navButtonsAlwaysVisible autoPlay={false}>
-
-                            <div className='overflow-y-auto h-screen no-scrollbar bg-white'>
+                        <Carousel stopAutoPlayOnHover={true} swipe={false} navButtonsAlwaysVisible autoPlay={false}>
+                            <div className='overflow-y-auto h-screen bg-white'>
                                 <h1 className='pl-6 pt-4 text-3xl '>{obj?.name}</h1>
                                 <h1 className='text-[1.2rem] p-6'>{obj?.description}</h1>
                                 {obj?.project?.map((value) => (
@@ -46,7 +45,7 @@ console.log(obj)
 
                                 )
                             })} */}
-                            <div className='overflow-y-auto h-screen flex items-center justify-center no-scrollbar bg-white' >
+                            <div className='overflow-y-auto h-screen max-sm:hidden flex items-center justify-center no-scrollbar bg-white' >
                                 <h1 className='ml-16 pt-4 text-3xl '>
                                 This is a video section where I will soon upload videos showcasing my projects.
                                 </h1>
