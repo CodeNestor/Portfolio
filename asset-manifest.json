@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.f0314dfb.css",
-    "main.js": "/Portfolio-Website/static/js/main.35abcd4f.js",
+    "main.css": "/Portfolio-Website/static/css/main.a0d7b285.css",
+    "main.js": "/Portfolio-Website/static/js/main.0eafe081.js",
     "reactPlayerYouTube.js": "/Portfolio-Website/static/js/reactPlayerYouTube.d8016314.chunk.js",
     "reactPlayerSoundCloud.js": "/Portfolio-Website/static/js/reactPlayerSoundCloud.4b4c16dc.chunk.js",
     "reactPlayerVimeo.js": "/Portfolio-Website/static/js/reactPlayerVimeo.58b08853.chunk.js",
@@ -20,12 +20,14 @@
     "static/media/home.png": "/Portfolio-Website/static/media/home.11f72c41e00fe39902ab.png",
     "static/media/about.png": "/Portfolio-Website/static/media/about.35d922a7d16d7987c8f7.png",
     "static/media/webhome.png": "/Portfolio-Website/static/media/webhome.55a1dde30383a35ddd69.png",
+    "static/media/searchbooks.png": "/Portfolio-Website/static/media/searchbooks.a000b5b315359a29cfd6.png",
     "static/media/contact.png": "/Portfolio-Website/static/media/contact.d8481f20633e61bf064f.png",
     "static/media/cart.png": "/Portfolio-Website/static/media/cart.9c57b56534018fa8e88a.png",
     "static/media/resumeform.png": "/Portfolio-Website/static/media/resumeform.91d79ecfe3b435641c1a.png",
     "static/media/jobs.png": "/Portfolio-Website/static/media/jobs.0b4aed878021bbca6cef.png",
     "static/media/dashjobs.png": "/Portfolio-Website/static/media/dashjobs.d147daf101a3f0f02eca.png",
     "static/media/resume.png": "/Portfolio-Website/static/media/resume.31230d057ea632a5dc20.png",
+    "static/media/CRM_Thumb.png": "/Portfolio-Website/static/media/CRM_Thumb.545a1864bce4032b9f79.png",
     "static/media/dashboard.png": "/Portfolio-Website/static/media/dashboard.85b64852f5b41ca0ab37.png",
     "static/media/login.png": "/Portfolio-Website/static/media/login.3824483fc9c26f9cc092.png",
     "static/media/plans.png": "/Portfolio-Website/static/media/plans.58ec73c4dfd7bf90b350.png",
@@ -36,15 +38,14 @@
     "static/media/grades.png": "/Portfolio-Website/static/media/grades.ff294bada8d27352c415.png",
     "static/media/booksthumb.jpg": "/Portfolio-Website/static/media/booksthumb.614d19f1a44b66ff6c25.jpg",
     "static/media/orders.png": "/Portfolio-Website/static/media/orders.834999ea80ab400bb356.png",
+    "static/media/Book_Dashboard_Thumb.png": "/Portfolio-Website/static/media/Book_Dashboard_Thumb.dd4c3ba93026857f64dc.png",
     "static/media/adminthumbnail.jpeg": "/Portfolio-Website/static/media/adminthumbnail.ef93ef040bf746ee3e13.jpeg",
-    "static/media/crmthumb.jpg": "/Portfolio-Website/static/media/crmthumb.8bd75d154356bb991f4c.jpg",
-    "static/media/adminthumb.jpg": "/Portfolio-Website/static/media/adminthumb.23c19ae299b74da5297a.jpg",
+    "static/media/bookscheckout.png": "/Portfolio-Website/static/media/bookscheckout.1f9e495e8de0fa06bd99.png",
     "static/media/graphql.png": "/Portfolio-Website/static/media/graphql.fc6b9451733c620ceb86.png",
     "static/media/jobswebthumbnail.jpg": "/Portfolio-Website/static/media/jobswebthumbnail.522fb50defa7d2731d79.jpg",
-    "static/media/resume4.pdf": "/Portfolio-Website/static/media/resume4.20fbc05901e91ba0b2fc.pdf",
     "static/media/school.png": "/Portfolio-Website/static/media/school.752a0701dcfa5ac5f0f0.png",
     "static/media/form.png": "/Portfolio-Website/static/media/form.46300540850b0b2d897f.png",
-    "static/media/resume.pdf": "/Portfolio-Website/static/media/resume.6360c970ea270ecd8619.pdf",
+    "static/media/Ahmad Hassan_Resume.pdf": "/Portfolio-Website/static/media/Ahmad Hassan_Resume.94751b7aa939b98ae61a.pdf",
     "static/media/heroImage.png": "/Portfolio-Website/static/media/heroImage.dbba8da7d495b95fa046.png",
     "static/media/react.png": "/Portfolio-Website/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/nextjs.png": "/Portfolio-Website/static/media/nextjs.48ddc8121a0fcb543d64.png",
@@ -54,8 +55,8 @@
     "static/media/css.png": "/Portfolio-Website/static/media/css.69a82c2d9e45c933a9cb.png",
     "static/media/javascript.png": "/Portfolio-Website/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/Portfolio-Website/index.html",
-    "main.f0314dfb.css.map": "/Portfolio-Website/static/css/main.f0314dfb.css.map",
-    "main.35abcd4f.js.map": "/Portfolio-Website/static/js/main.35abcd4f.js.map",
+    "main.a0d7b285.css.map": "/Portfolio-Website/static/css/main.a0d7b285.css.map",
+    "main.0eafe081.js.map": "/Portfolio-Website/static/js/main.0eafe081.js.map",
     "reactPlayerYouTube.d8016314.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerYouTube.d8016314.chunk.js.map",
     "reactPlayerSoundCloud.4b4c16dc.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerSoundCloud.4b4c16dc.chunk.js.map",
     "reactPlayerVimeo.58b08853.chunk.js.map": "/Portfolio-Website/static/js/reactPlayerVimeo.58b08853.chunk.js.map",
@@ -72,7 +73,7 @@
     "592.6647c214.chunk.js.map": "/Portfolio-Website/static/js/592.6647c214.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f0314dfb.css",
-    "static/js/main.35abcd4f.js"
+    "static/css/main.a0d7b285.css",
+    "static/js/main.0eafe081.js"
   ]
 }
