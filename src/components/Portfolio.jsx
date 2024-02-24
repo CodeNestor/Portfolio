@@ -33,7 +33,8 @@ import crmpricing from '../assets/Projects/CRM_Audit_Times/pricing.png'
 
 // jobs web =============
 
-import jobshome from '../assets/Projects/Jobs/webhome.png'
+// import jobshome from '../assets/Projects/Jobs/webhome.png'
+import jobshome from '../assets/Projects/Jobs/jobweb.png'
 import alljobs from '../assets/Projects/Jobs/jobs.png'
 import resume from '../assets/Projects/Jobs/resume.png'
 import resumeform from '../assets/Projects/Jobs/resumeform.png'
