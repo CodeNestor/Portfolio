@@ -48,6 +48,10 @@ import jobsdashboard from '../assets/Projects/Jobs/dashboard.png'
 import jobsform from '../assets/Projects/Jobs/jobsform.png'
 import dashjobs from '../assets/Projects/Jobs/dashjobs.png'
 import dashcategory from '../assets/Projects/Jobs/dashcategory.png'
+// jobs admin =============
+
+import helperzzHome from '../assets/Projects/Helperzz/helperzz.png'
+import helperzzThumb from '../assets/Projects/Helperzz/home.9d2d4cff52ddd44682d8 (1).png'
 
 const Portfolio = () => {
 
@@ -57,6 +61,7 @@ const Portfolio = () => {
     { id: 3, name: 'Jobs Panel', description: 'Welcome to our Jobs Admin Panel: Your command center for seamless job management. Simplify recruitment, monitor applicants, and effortlessly handle job postings. Boost productivity and streamline HR operations with ease.', thumbnail: jobsadmin, project: [{ src: jobsdashboard }, { src: jobsform }, { src: dashjobs }, { src: jobsplans }, { src: dashcategory }, { video: 'https://www.youtube.com/watch?v=pFDJEKFy8jA' }] },
     { id: 4, name: 'Books Website', description: 'Welcome to our Online Bookstore! Immerse yourself in a diverse collection of books spanning various genres. Experience seamless browsing, secure transactions, and swift delivery. Embark on a journey of knowledge and adventure with us today! Explore, discover, and enjoy the convenience of your literary pursuits!' , thumbnail: booksthumb, project: [{ src: bookshome }, { src: bookssearch } , { src: booksdetail }, { src: booksabout },  { src: bookscontact }, { src: bookscart },  { src: bookscheckout }, { video: 'https://www.youtube.com/watch?v=pFDJEKFy8jA' }] },
     { id: 5, name: 'Books Panel', description: 'Explore our Online Bookstore Admin Panel: Your hub for effortlessly managing inventory, orders, and customer info. Simplify operations, monitor sales, and boost your online bookstore effortlessly. Empower your team for success!', thumbnail: adminthumb, project: [{ src: booksdashboard }, { src: booksschool }, { src: booksorders }, { src: booksgrades }, { src: booksform }, { src: bookslogin }, { video: 'https://www.youtube.com/watch?v=pFDJEKFy8jA' }] },
+    { id: 5, name: 'Helperzz Web', description: 'Introducing Helperzz Web: Connect with skilled contractors, select multiple experts, choose work categories, and streamline your hiring process. Effortlessly manage projects and ensure success. Empower your team with Helperzz Web today!', thumbnail: helperzzThumb, project: [{ src: helperzzHome }, { video: 'https://www.youtube.com/watch?v=pFDJEKFy8jA' }] },
   ]
 
   const [open, setOpen] = useState(false);
